@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.MD" />
+  </Folder>
+  <Project Path="Registro_empleados.csproj" />
+</Solution>
